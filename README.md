@@ -26,6 +26,13 @@ This project uses an ESP8266 Wi-Fi module and two IR sensors to count the number
 4. The exit count increases, and the green LED blinks.
 5. The counting information is transmitted to the KiwisIoT Cloud dashboard through Wi-Fi.
 
+## Source Code
+[People_Counting_System.ino](People_Counting_System.ino)
+
+## Source Code
+[People_Counting_System.ino](People_Counting_System.ino)
+
+
 ## 📊 KiwisIoT Cloud Monitoring
 
 The system sends the following data to the KiwisIoT Cloud dashboard:
