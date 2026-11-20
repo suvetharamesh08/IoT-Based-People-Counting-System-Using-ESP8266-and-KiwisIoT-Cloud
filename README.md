@@ -33,16 +33,7 @@ This project uses an ESP8266 Wi-Fi module and two IR sensors to count the number
 
 ![IR Sensor Connection Output](IR%20sensor%20connection%20output.jpeg)
 
-
-## 📊 KiwisIoT Cloud Monitoring
-
-The system sends the following data to the KiwisIoT Cloud dashboard:
-
-| Channel | Data |
-|---|---|
-| Channel 0 | Entrance Count |
-| Channel 1 | Exit Count |
-
+![Person Detection](PERSON%20DETECTION%20.jpeg)
 
 ## 🎯 Applications
 - Smart classrooms
