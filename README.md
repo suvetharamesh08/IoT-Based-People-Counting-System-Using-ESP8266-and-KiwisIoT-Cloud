@@ -24,7 +24,7 @@ This project uses an ESP8266 Wi-Fi module and two IR sensors to count the number
 2. The entrance count increases, and the yellow LED blinks.
 3. The exit IR sensor detects a person leaving the room.
 4. The exit count increases, and the green LED blinks.
-5. The counting information is transmitted to the KiwisIoT Cloud dashboard through Wi-Fi.
+5. The counting information is transmitted to the KiwisIoT Cloud dashboard through Wi-Fi. 
 
 ## Source Code
 [People_Counting_System.ino](People_Counting_System.ino)
