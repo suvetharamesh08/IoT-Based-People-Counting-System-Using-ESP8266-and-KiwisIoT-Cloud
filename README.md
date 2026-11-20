@@ -29,8 +29,9 @@ This project uses an ESP8266 Wi-Fi module and two IR sensors to count the number
 ## Source Code
 [People_Counting_System.ino](People_Counting_System.ino)
 
-## Source Code
-[People_Counting_System.ino](People_Counting_System.ino)
+## Project Output
+
+![IR Sensor Connection Output](IR%20sensor%20connection%20output.jpeg)
 
 
 ## 📊 KiwisIoT Cloud Monitoring
